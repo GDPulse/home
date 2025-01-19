@@ -1,4 +1,7 @@
-theme: Cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: Welcome to Pulse
 description: Plugins Union
 show_downloads: True
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
