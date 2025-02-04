@@ -14,11 +14,15 @@ PULSE (Plugins Union: Learning, Synergy and Excellence) is dedicated to enhancin
 - **Excellence**: Get your plugins certified and recognized by PULSE.
 - **Coordinated Grid of Plugins**: Build your own plugin with the help of connections to other Pulse plugins. 
 
+> This page is for game davelopers, [Go to plugin developers page](https://gdpulse.github.io/home/Developers)
+
 ## Getting Started
 
 To get started with PULSE, follow these steps:
 
-> This is where the starting steps are inserted. 
+Download and install [Pulse Plugin Manager](https://github.com/GDPulse/PulsePluginManager) for your Godot engine.
+
+> This section should link to the required items.
 
 ## Contributing
 
